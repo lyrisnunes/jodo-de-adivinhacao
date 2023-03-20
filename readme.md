@@ -26,5 +26,5 @@ Essa aplicação é um jogo de adivinhação. O usuário tenta adivinhar um núm
 ## Acesse o projeto
 
  <h3>
-        <a href="https://lyrisnunes.github.io/jogo-de-adivinhacao/"> - Veja o projeto clique aqui </a>
+        <a href="https://lyrisnunes.github.io/jodo-de-adivinhacao/"> - Veja o projeto clique aqui </a>
 </h3>
